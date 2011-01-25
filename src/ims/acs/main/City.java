@@ -1,5 +1,10 @@
 package ims.acs.main;
 
+/**
+ * 
+ * @author neuro
+ *
+ */
 public class City {
 
 	private double x,y;
